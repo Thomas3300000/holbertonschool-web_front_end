@@ -12,7 +12,7 @@ html{
     --font-family-title: "Raleway", Helvetica Neue, Helvetica, Arial, sans-serif;
     --color-primary: #d73953;
     --color-black: #090909;
-    --color-white: #ffffff                ;
+    --color-white: #ffffff;
     --color-light-grey: #f3f3f3;
     --color-dark-grey: #353535;
     --text-color: var(--color-black);
@@ -147,7 +147,7 @@ ul.row{
 .col-1-2{
     width: 50%;
     float: left;
-    padding: 0.5rem
+    padding: 0.5rem;
 }
 .footer-copyright{
     margin: 0;
